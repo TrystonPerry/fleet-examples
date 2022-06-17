@@ -34,3 +34,5 @@ and configure the app differently for each target.
 
 Using downstream clusters with Windows nodes?
 Check out the [windows-helm](multi-cluster/windows-helm/) multi-cluster example above.
+
+Fake updated
